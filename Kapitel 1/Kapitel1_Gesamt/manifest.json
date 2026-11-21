@@ -1,0 +1,97 @@
+[
+  {
+    "path": "FRZK_Kapitel1_Gesamtimport_2026-11-09.sql",
+    "sha256": "a125814f3fb46ea90efadca5d5c1d0453080d5e44ae069bb0db20a9fa5c597f5",
+    "size": 990937
+  },
+  {
+    "path": "frzk_dissertation_schema_empty.sql",
+    "sha256": "8ff9af6db5ec80a0ae94bb840a3d69ac6cb673b821508f69c3c26717bc2295ec",
+    "size": 40456
+  },
+  {
+    "path": "FRZK_Kapitel1_Iterativer_Erkenntnisprozess_2026-11-09.docx",
+    "sha256": "a3fcd99db815be9750523202c88b61d89f19d178625da4b72e1238e045c57cd8",
+    "size": 1792912
+  },
+  {
+    "path": "assets/frzk_kapitel_1/figure_1_F1.png",
+    "sha256": "90f16ce139eba714bf440f30869e043a4ca71f3681ab7731312211afd011b124",
+    "size": 62421
+  },
+  {
+    "path": "assets/frzk_kapitel_1/figure_1_F2.png",
+    "sha256": "c18c3b62fa60895ddf76b77e119f9f6bd99c7eb8f92fe781913130020bbd0d72",
+    "size": 84384
+  },
+  {
+    "path": "assets/frzk_kapitel_1/figure_1_F3.png",
+    "sha256": "668c85a28cec4cb2fd1dca82bd04d06e46d71156bc54b3cdf6cb2fb72a153066",
+    "size": 269796
+  },
+  {
+    "path": "assets/frzk_kapitel_1/figure_1_F4.png",
+    "sha256": "13bfbcd0390c69ae1d24cc628b3cbf7b4745c6b38b123fe699a70fedf4dfbcf2",
+    "size": 101198
+  },
+  {
+    "path": "assets/frzk_kapitel_1/figure_1A_1.png",
+    "sha256": "7ba9c24ec564389b4add275416d9eceedaef556ad4feaa599e4060dac9edf75e",
+    "size": 66583
+  },
+  {
+    "path": "assets/frzk_kapitel_1/figure_1A_2.png",
+    "sha256": "edf514cfc5ec4ffe71162e3e8bbcd78ee8c5a51ed1c1e80ef015fb67e37ccf3a",
+    "size": 95589
+  },
+  {
+    "path": "assets/frzk_kapitel_1/figure_1A_3.png",
+    "sha256": "c54e74dc0f3c84acc19e43e1197b42b1df15115ca663abfe7203eb2b1ffc408d",
+    "size": 244740
+  },
+  {
+    "path": "assets/frzk_kapitel_1/figure_1A_4.png",
+    "sha256": "e72b0ed12108f496908b63728a2c07173a7fb9e2f97eaabd4be40b3ea7872eac",
+    "size": 374217
+  },
+  {
+    "path": "assets/frzk_kapitel_1/figure_1A_5.png",
+    "sha256": "4123fc7f6a0046cbb860b92d33c5e879caf7d8c733b3b8ee33677f3858281619",
+    "size": 377167
+  },
+  {
+    "path": "assets/anlage_1A2/a2_frame_1.png",
+    "sha256": "96e3556f74c3c87744f01744a781da2018df8b05072dbe477417c6590e7dad6f",
+    "size": 12171
+  },
+  {
+    "path": "assets/anlage_1A2/a2_frame_2.png",
+    "sha256": "a32bea1e009ad3a26b2912bc9b73c7fc2b3cee6e2f0983a017cb4e4dd3a873ee",
+    "size": 46955
+  },
+  {
+    "path": "assets/anlage_1A2/a2_frame_3.png",
+    "sha256": "ad63c1892b4edc6d649b85b0e0a905280a3b58634025ea04a103be46e5272d7e",
+    "size": 79738
+  },
+  {
+    "path": "assets/anlage_1A2/a2_frame_4.png",
+    "sha256": "3e7e9056c89d9a1e71d322986f4ea157c4d0105ff5f526a8a4e01f8388bd0c75",
+    "size": 56713
+  },
+  {
+    "path": "assets/anlage_1A2/a2_frame_5.png",
+    "sha256": "ddf02f38c61cce41c3611efe96e4a44bfc58f477e2c5503d881273f65ed9daab",
+    "size": 34283
+  },
+  {
+    "path": "assets/anlage_1A2/a2_frame_6.png",
+    "sha256": "6ff6c7278e0424ea4164d69345761d1715fa026ce8ab8a51a522c273a835191e",
+    "size": 55483
+  },
+  {
+    "path": "assets/anlage_1A2/a2_frame_7.png",
+    "sha256": "cd79811c5b4f4644bc7f5e85f446449919f38acd02f0f9d6ccb0def31529fcfe",
+    "size": 50957
+  }
+]
